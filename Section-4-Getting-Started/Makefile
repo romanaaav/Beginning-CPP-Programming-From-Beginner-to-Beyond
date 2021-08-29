@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ 5-CompilerErrors - Debug ]----------"
-	@cd "CompilerErrors" && "$(MAKE)" -f  "5-CompilerErrors.mk"
+	@echo "----------Building project:[ 6-CompilerWarnings - Debug ]----------"
+	@cd "6-CompilerWarnings" && "$(MAKE)" -f  "6-CompilerWarnings.mk"
 clean:
-	@echo "----------Cleaning project:[ 5-CompilerErrors - Debug ]----------"
-	@cd "CompilerErrors" && "$(MAKE)" -f  "5-CompilerErrors.mk" clean
+	@echo "----------Cleaning project:[ 6-CompilerWarnings - Debug ]----------"
+	@cd "6-CompilerWarnings" && "$(MAKE)" -f  "6-CompilerWarnings.mk" clean
