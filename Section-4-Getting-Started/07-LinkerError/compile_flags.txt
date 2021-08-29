@@ -4,7 +4,7 @@
 -Ic:\MinGW\lib\gcc\mingw32\6.3.0\include
 -Ic:\MinGW\include
 -Ic:\MinGW\lib\gcc\mingw32\6.3.0\include-fixed
--ID:\Roman\Documents\CPP-Stuff\Beginning-CPP-Programming-From-Beginner-to-Beyond\Section-4-Getting-Started\6-CompilerWarnings
+-ID:\Roman\Documents\CPP-Stuff\Beginning-CPP-Programming-From-Beginner-to-Beyond\Section-4-Getting-Started\07-LinkerError
 -std=c++14
 -target
 i686-pc-windows-gnu
