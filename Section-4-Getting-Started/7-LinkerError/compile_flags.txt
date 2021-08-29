@@ -1,0 +1,10 @@
+-Ic:\MinGW\lib\gcc\mingw32\6.3.0\include\c++
+-Ic:\MinGW\lib\gcc\mingw32\6.3.0\include\c++\mingw32
+-Ic:\MinGW\lib\gcc\mingw32\6.3.0\include\c++\backward
+-Ic:\MinGW\lib\gcc\mingw32\6.3.0\include
+-Ic:\MinGW\include
+-Ic:\MinGW\lib\gcc\mingw32\6.3.0\include-fixed
+-ID:\Roman\Documents\CPP-Stuff\Beginning-CPP-Programming-From-Beginner-to-Beyond\Section-4-Getting-Started\7-LinkerError
+-std=c++14
+-target
+i686-pc-windows-gnu
